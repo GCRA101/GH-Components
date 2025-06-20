@@ -1,0 +1,16 @@
+AGN CONN FORCES FORMATTER FOR EXCEL,1
+True,False
+GCRA101
+C:
+AGN CONN FORCES FORMATTER FOR EXCEL
+A:
+GCRA101
+N:
+vb_script,VB Script,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+T:
+Connection Forces
+Formatter
+Excel
+Agnostic
