@@ -1,0 +1,23 @@
+BEAMS SNAPPER,1
+True,False
+GCRA101
+C:
+BEAMS SNAPPER
+A:
+GCRA101
+N:
+snap_to_floor_heights,SNAP TO FLOOR HEIGHTS,1
+snap_planes_to_grids,SNAP PLANES TO GRIDS,1
+snap_ends_to_grids,SNAP ENDS TO GRIDS,1
+snap_to_grid_intersections,SNAP TO GRID INTERSECTIONS,1
+snap_to_roof_surface,SNAP TO ROOF SURFACE,1
+extend_to_eachother,EXTEND TO EACHOTHER,1
+snap_coincident_nodes,SNAP COINCIDENT NODES,1
+project_onto_roof_surface,PROJECT ONTO ROOF SURFACE,1
+inputs,INPUTS,1
+outputs,OUTPUTS,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+T:
+BHoM
+Model Laundry
