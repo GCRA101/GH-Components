@@ -1,0 +1,26 @@
+2D TRUSS DECOMPOSER,1
+True,False
+GCRA101
+C:
+2D TRUSS DECOMPOSER
+A:
+GCRA101
+N:
+assign_section_properties_to_truss_frame_elements,Assign Section Properties to Truss Frame Elements,1
+adjust_tos_level_of_bottom_steel_chord,Adjust TOS Level of Bottom Steel Chord,1
+group,Group,1
+group,Group,1
+find_truss_sections_and_sort_into_top_bottom_diagonal,Find Truss Sections and sort into Top, Bottom, Diagonal,1
+cluster,Cluster,1
+1_extract_section_names_from_beams_data,1. Extract Section Names from Beams Data,1
+2_extract_section_names_from_bhom_library,2. Extract Section Names from BHOM Library,1
+3_extract_bhom_sections_based_on_names,3. Extract BHOM Sections based on Names,1
+cluster,Cluster,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+T:
+BHoM
+2D
+Truss
+Decompose
+Geometry
