@@ -1,0 +1,19 @@
+BRACES SNAPPER,1
+True,False
+GCRA101
+C:
+BRACES SNAPPER
+A:
+GCRA101
+N:
+1_snap_end_points_to_heights,1. SNAP END POINTS TO HEIGHTS,1
+2_snap_end_points_to_roof_surface,2. SNAP END POINTS TO ROOF SURFACE,1
+3_snape_elements_to_grids,3. SNAPE ELEMENTS TO GRIDS,1
+4_snap_elements_to_end_points,4. SNAP ELEMENTS TO END POINTS,1
+outputs,OUTPUTS,1
+5_snap_ends_to_grids,5. SNAP ENDS TO GRIDS,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+T:
+BHoM
+Model Laundry
