@@ -1,0 +1,13 @@
+BAR LOCAL AXES DISPLAY,1
+True,False
+GCRA101
+C:
+BAR LOCAL AXES DISPLAY
+A:
+GCRA101
+P:
+BH.UI.Grasshopper,8.0.0.0
+T:
+BHoM
+Visualize
+Local Axes
