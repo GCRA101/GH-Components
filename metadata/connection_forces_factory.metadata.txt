@@ -1,0 +1,31 @@
+CONNECTION FORCES FACTORY,1
+True,False
+GCRA101
+C:
+CONNECTION FORCES FACTORY
+A:
+GCRA101
+N:
+inputs,INPUTS,1
+outputs,OUTPUTS,1
+lcombos_branching,LCOMBOS BRANCHING,1
+cluster,Cluster,1
+cluster,Cluster,1
+forces__than_tolerance_-_round_to_zero,FORCES < THAN TOLERANCE -> ROUND TO ZERO,1
+forces__than_tolerance_-_scale_and_round_up,FORCES > THAN TOLERANCE -> SCALE AND ROUND UP,1
+combine_forces_into_single_data_tree_structure,COMBINE FORCES INTO SINGLE DATA TREE STRUCTURE,1
+separate_forces__than_tolerance,SEPARATE FORCES <> THAN TOLERANCE,1
+group,Group,1
+inputs,INPUTS,1
+extract_barforce_attributes_values,EXTRACT BARFORCE ATTRIBUTES' VALUES,1
+cluster,Cluster,1
+cluster,Cluster,1
+ghpython_script,GhPython Script,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+HDTTreeUtils,1.0.0.0
+MetaHopper,1.2.1
+T:
+BHoM
+Connection Forces
+Analyze
