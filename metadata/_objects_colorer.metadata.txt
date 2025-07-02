@@ -1,0 +1,10 @@
+ OBJECTS COLORER,1
+True,False
+GCRA101
+C:
+ OBJECTS COLORER
+A:
+GCRA101
+T:
+Visualize
+Color
