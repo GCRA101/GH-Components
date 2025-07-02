@@ -1,0 +1,21 @@
+RHINO TEXTDOTS UPDATER,1
+True,False
+GCRA101
+C:
+RHINO TEXTDOTS UPDATER
+A:
+GCRA101
+N:
+replace_tags_text_with_new_text,REPLACE TAGS TEXT WITH NEW TEXT,1
+extract_tags_attributes_to_reassign_them_to_new_tags,EXTRACT TAGS ATTRIBUTES TO REASSIGN THEM TO NEW TAGS,1
+dynamic_tree_trimmer,DYNAMIC TREE TRIMMER,1
+inputs,INPUTS,1
+check_text_dots_and_attributes,CHECK TEXT DOTS AND ATTRIBUTES,1
+bake_updated_tags_into_rhino,BAKE UPDATED TAGS INTO RHINO,1
+P:
+EleFront,0.1.0.0
+T:
+TextDot
+Tag
+Visualize
+Data
