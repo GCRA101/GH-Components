@@ -1,0 +1,8 @@
+DYNAMIC TREE TRIMMER,1
+True,False
+GCRA101
+A:
+GCRA101
+T:
+Data
+Tree
