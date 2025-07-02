@@ -1,0 +1,17 @@
+RevitObsToJsonViaBHoM,1
+False,False
+GCRA101
+A:
+GCRA101
+N:
+cluster,Cluster,1
+cluster,Cluster,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+MetaHopper,1.2.1
+T:
+BHoM
+Serialize
+Revit
+JSON
+GH Snippet
