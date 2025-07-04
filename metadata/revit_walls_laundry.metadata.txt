@@ -1,0 +1,20 @@
+REVIT WALLS LAUNDRY,1
+True,False
+GCRA101
+C:
+REVIT WALLS LAUNDRY
+A:
+GCRA101
+N:
+inputs,INPUTS,1
+outputs,OUTPUTS,1
+group,Group,1
+visualization,VISUALIZATION,1
+P:
+BH.UI.Grasshopper,8.0.0.0
+T:
+BHoM
+Revit
+Model Laundry
+Walls
+Geometry
