@@ -1,0 +1,12 @@
+PostgreSQL Query Script,1
+False,False
+GCRA101
+A:
+GCRA101
+N:
+postgresql_query_manager,PostgreSQL Query Manager,1
+T:
+Data
+Database
+SQL
+PostgreSQL
