@@ -1,0 +1,14 @@
+MetahopperFormattingTools,1
+False,False
+GCRA101
+A:
+GCRA101
+N:
+metahopper_tools,METAHOPPER TOOLS,1
+P:
+MetaHopper,1.2.1
+T:
+Visualize
+Formatter
+GH Canvas
+GH Snippet
