@@ -1,0 +1,13 @@
+Access SQL Query Snippet,1
+False,False
+GCRA101
+A:
+GCRA101
+N:
+access_sql_query_manager,Access SQL Query Manager,1
+T:
+GH Snippet
+SQL
+Access
+Database
+Data
