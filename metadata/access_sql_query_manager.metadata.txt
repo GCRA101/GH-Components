@@ -1,0 +1,12 @@
+Access SQL Query Manager,1
+False,False
+GCRA101
+C:
+C# Script
+A:
+GCRA101
+T:
+Database
+Data
+SQL
+Access
